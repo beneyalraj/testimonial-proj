@@ -1,16 +1,16 @@
 const reviews = [
   {
     id: 1,
-    name: "Pranay Gupta",
+    name: "Abi beniyal",
     job: "Software Engineer",
-    image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
+    image: "https://media.licdn.com/dms/image/D4D03AQHnYrOPEV14CA/profile-displayphoto-shrink_400_400/0/1683759896741?e=1691625600&v=beta&t=08VReZQzVV2DRUgx8ucfgJAqtZSS_TXvgwcfO-U-gKU",
     text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
   {
     id: 2,
-    name: "Abir Pal",
-    job: "Graphic Designer",
-    image: "https://aeccc.targettechnology.in/static/media/AbirPal.574a09ad7cb325853b29.jpg",
+    name: "Deepak",
+    job: "Data Analyst",
+    image: "https://media.licdn.com/dms/image/D4E03AQEQ12EYijKyhw/profile-displayphoto-shrink_400_400/0/1684488432934?e=1691625600&v=beta&t=k-SLPkdGAdJtttuIk1xityKO9qFusYtqYKManXndbT8",
     text: "I have been working with this company for several years now, and I have always been impressed with their creativity and attention to detail. They are true professionals who take pride in their work and always go above and beyond to deliver exceptional results.",
   },
   {
@@ -30,7 +30,7 @@ const reviews = [
   {
     id: 5,
     name: "Aritra Biswas",
-    job: "Data Analyst",
+    job: "Graphic Designer",
     image: "https://avatars.githubusercontent.com/u/93366359?v=4",
     text: "I had the opportunity to work with this team on a data analysis project, and I was impressed with their attention to detail and their ability to work with complex datasets. They provided valuable insights that helped us make informed business decisions. It was a pleasure working with them.",
   },
